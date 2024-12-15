@@ -1,0 +1,21 @@
+# Общие игнорируемые файлы для C#
+bin/
+obj/
+
+# Папка для пользовательских настроек IDE
+.vs/
+.vscode/
+.idea/
+
+# Режимы сборки
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Исключение папки frontend
+frontend/
+
+# Файлы, специфичные для Windows
+Thumbs.db
+Desktop.ini
