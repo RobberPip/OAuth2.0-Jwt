@@ -17,7 +17,7 @@
 - Разработчики, занимающиеся разработкой веб-сайтов с возможностью авторизации/регистрации
 
 ## Используемые технологии
-
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 1. C#
 2. ASP.NET
 3. Swagger
